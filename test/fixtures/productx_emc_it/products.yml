@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  model: MyString
+  drawing_num: MyString
+  tech_spec: MyText
+  work_voltage: MyString
+  work_current: MyString
+  frequency: MyString
+  internal_frequency: MyString
+  rfq_id: 1
+
+two:
+  name: MyString
+  model: MyString
+  drawing_num: MyString
+  tech_spec: MyText
+  work_voltage: MyString
+  work_current: MyString
+  frequency: MyString
+  internal_frequency: MyString
+  rfq_id: 1
